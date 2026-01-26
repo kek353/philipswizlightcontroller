@@ -1,5 +1,5 @@
 # kek's WiZ Light Controller
-
+# Author: @kek353 on GitHub, Eshaan Pisal, Release Date 06/01/2026, Version 1.0
 A fast, lightweight, and fully-featured desktop controller for **Philips WiZ lights**, built with Python and CustomTkinter for Windows.
 
 This app provides **instant local control** of WiZ lights without relying on cloud services, while offering advanced features like presets, automatic discovery, persistent saved lights, and a custom-built color engine.
